@@ -16,3 +16,7 @@ Simulación de campo magnético por un anillo con correinte eléctrica uniforme
  CODIGO EXTRA
       <br>TINSPIRE D332   - 3D // UN PUNTO
       <br>UNOPTIMAL_CISCO - 3D // CÓDIGO LENTO NO RECOMENDABLE
+      
+      
+  Runge Kutta
+  GRAFICAS DE POSICIÓN/VELOCIDAD/ACELERACION vs TIEMPO
